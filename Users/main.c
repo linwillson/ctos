@@ -36,7 +36,7 @@ int main(void)
 				HAL_GPIO_WritePin(GPIOE,GPIO_PIN_5,GPIO_PIN_SET);    /* PB5置1 */
 
 //        delay_ms(500);
-//        HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_RESET);  /* PB5置0 */
+//        HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_RESET);  /* PB5置0 我又又又来了*/
 //				HAL_GPIO_WritePin(GPIOE,GPIO_PIN_5,GPIO_PIN_RESET);  /* PB5置0 我在着呢*/	
 
 //        delay_ms(500); 
